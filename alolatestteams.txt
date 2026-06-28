@@ -1,0 +1,488 @@
+--- #1 | win rate: 1.000 (4/4) ---
+Slowbro (M) @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Slack Off
+- Psyshock
+- Calm Mind
+
+Vikavolt (M) @ Choice Specs
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Bug Buzz
+- Energy Ball
+- Volt Switch
+
+Mimikyu (M) @ Life Orb
+Ability: Disguise
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Play Rough
+- Shadow Claw
+- Swords Dance
+- Shadow Sneak
+
+Tsareena (F) @ Leftovers
+Ability: Queenly Majesty
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trop Kick
+- High Jump Kick
+- U-turn
+- Synthesis
+
+Garchomp (M) @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Brick Break
+
+Gengar (M) @ Ghostium Z
+Ability: Cursed Body
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Sludge Wave
+- Focus Blast
+- Destiny Bond
+
+--- #2 | win rate: 1.000 (4/4) ---
+Lurantis (M) @ Grassium Z
+Ability: Contrary
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Superpower
+- Synthesis
+- x-Scissor
+
+Slowbro (M) @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Slack Off
+- Psyshock
+- Calm Mind
+
+Mimikyu (M) @ Life Orb
+Ability: Disguise
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Play Rough
+- Shadow Claw
+- Swords Dance
+- Shadow Sneak
+
+Exeggutor-Alola (M) @ Choice Specs
+Ability: Frisk
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Leaf Storm
+- Flamethrower
+- Psychic
+
+Garchomp (M) @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Brick Break
+
+Muk-Alola (M) @ Black Sludge
+Ability: Poison Touch
+EVs: 252 HP / 252 Atk / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Knock Off
+- Poison Jab
+- Curse
+- Rest
+
+--- #3 | win rate: 0.500 (2/4) ---
+Passimian (M) @ Choice Scarf
+Ability: Receiver
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- U-turn
+- Rock Slide
+- Knock Off
+
+Mudsdale (M) @ Leftovers
+Ability: Stamina
+EVs: 252 HP / 252 Atk / 4 Def
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Heavy Slam
+- Rock Slide
+- Rest
+
+Dugtrio-Alola (M) @ Focus Sash
+Ability: Tangling Hair
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Iron Head
+- Rock Slide
+- Reversal
+
+Slowbro (M) @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Slack Off
+- Psyshock
+- Calm Mind
+
+Kommo-o (M) @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Clanging Scales
+- Close Combat
+- Dragon Dance
+- Poison Jab
+
+Salazzle (F) @ Focus Sash
+Ability: Corrosion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sludge Wave
+- Flamethrower
+- Toxic
+- Nasty Plot
+
+--- #4 | win rate: 0.500 (2/4) ---
+Incineroar (M) @ Figy Berry
+Ability: Intimidate
+EVs: 252 HP / 252 Def / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Darkest Lariat
+- U-turn
+- Fake Out
+
+Salamence (M) @ Flyinium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Double-Edge
+- Earthquake
+- Dragon Claw
+
+Mimikyu (M) @ Life Orb
+Ability: Disguise
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Play Rough
+- Shadow Claw
+- Swords Dance
+- Shadow Sneak
+
+Slowbro (M) @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Slack Off
+- Psyshock
+- Calm Mind
+
+Kommo-o (M) @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Clanging Scales
+- Close Combat
+- Dragon Dance
+- Poison Jab
+
+Salazzle (F) @ Focus Sash
+Ability: Corrosion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sludge Wave
+- Flamethrower
+- Toxic
+- Nasty Plot
+
+--- #5 | win rate: 0.500 (2/4) ---
+Lycanroc (M) @ Life Orb
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Accelerock
+- Return
+- Swords Dance
+
+Kommo-o (M) @ Kommonium Z
+Ability: Bulletproof
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Clanging Scales
+- Close Combat
+- Dragon Dance
+- Poison Jab
+
+Exeggutor-Alola (M) @ Choice Specs
+Ability: Frisk
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Leaf Storm
+- Flamethrower
+- Psychic
+
+Minior (M) @ White Herb
+Ability: Shields Down
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shell Smash
+- Acrobatics
+- Stone Edge
+- Earthquake
+
+Garchomp (M) @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Brick Break
+
+Palossand (M) @ Leftovers
+Ability: Water Compaction
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Shadow Ball
+- Shore Up
+- Stealth Rock
+
+--- #6 | win rate: 0.500 (2/4) ---
+Passimian (M) @ Choice Scarf
+Ability: Receiver
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- U-turn
+- Rock Slide
+- Knock Off
+
+Mudsdale (M) @ Leftovers
+Ability: Stamina
+EVs: 252 HP / 252 Atk / 4 Def
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Heavy Slam
+- Rock Slide
+- Rest
+
+Dugtrio-Alola (M) @ Focus Sash
+Ability: Tangling Hair
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Iron Head
+- Rock Slide
+- Reversal
+
+Primarina (M) @ Waterium Z
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sparkling Aria
+- Moonblast
+- Ice Beam
+- Misty Terrain
+
+Garchomp (M) @ Groundium Z
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Brick Break
+
+Raichu-Alola (M) @ Psychic Seed
+Ability: Surge Surfer
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Psychic
+- Focus Blast
+- Nasty Plot
+
+--- #7 | win rate: 0.000 (0/4) ---
+Lurantis (M) @ Grassium Z
+Ability: Contrary
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Superpower
+- Synthesis
+- x-Scissor
+
+Primarina (M) @ Waterium Z
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sparkling Aria
+- Moonblast
+- Ice Beam
+- Misty Terrain
+
+Salamence (M) @ Flyinium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Double-Edge
+- Earthquake
+- Dragon Claw
+
+Palossand (M) @ Leftovers
+Ability: Water Compaction
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Shadow Ball
+- Shore Up
+- Stealth Rock
+
+Wishiwashi (M) @ Leftovers
+Ability: Schooling
+EVs: 252 HP / 252 Def / 4 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hydro Pump
+- Ice Beam
+- Bulldoze
+- Protect
+
+Sylveon (M) @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Wish
+- Protect
+- Calm Mind
+
+--- #8 | win rate: 0.000 (0/4) ---
+Palossand (M) @ Leftovers
+Ability: Water Compaction
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Shadow Ball
+- Shore Up
+- Stealth Rock
+
+Salamence (M) @ Flyinium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Double-Edge
+- Earthquake
+- Dragon Claw
+
+Sandslash-Alola (M) @ Life Orb
+Ability: Slush Rush
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icicle Crash
+- Iron Head
+- Earthquake
+- Swords Dance
+
+Exeggutor-Alola (M) @ Choice Specs
+Ability: Frisk
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Leaf Storm
+- Flamethrower
+- Psychic
+
+Espeon (M) @ Life Orb
+Ability: Magic Bounce
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Calm Mind
+- Dazzling Gleam
+- Shadow Ball
+
+Lucario (M) @ Fightinium Z
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Bullet Punch
+- Swords Dance
+- Extreme Speed
+

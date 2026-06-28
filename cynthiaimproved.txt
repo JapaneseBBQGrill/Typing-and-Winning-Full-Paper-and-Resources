@@ -1,0 +1,59 @@
+Garchomp (M) @ Sitrus Berry
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swords Dance
+- Dragon Claw
+- Earthquake
+- Brick Break
+
+Bastiodon (M)
+Ability: Sturdy
+EVs: 4 HP / 252 Def / 252 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Iron Head
+- Toxic
+- Protect
+
+Spiritomb (M)
+Ability: Pressure
+EVs: 252 HP / 4 Def / 252 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Dark Pulse
+- Will-O-Wisp
+- Toxic
+
+Heracross (M)
+Ability: Guts
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swords Dance
+- Close Combat
+- Megahorn
+- Aerial Ace
+
+Rotom-Wash (M)
+Ability: Levitate
+EVs: 252 Def / 4 SpA / 252 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder Wave
+- Thunderbolt
+- Hydro Pump
+- Protect
+
+Magmortar (M)
+Ability: Flame Body
+EVs: 4 HP / 252 SpA / 252 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Flamethrower
+- Hyper Beam
+- Substitute

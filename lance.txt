@@ -1,0 +1,59 @@
+Gyarados (M)
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Fang
+- Dragon Pulse
+- Waterfall
+- Flail
+
+Dragonite (M)
+Ability: Inner Focus
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Beam
+- Thunder Wave
+- Dragon Rush
+- Thunder
+
+Aerodactyl (M)
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder Fang
+- Rock Slide
+- Crunch
+- Aerial Ace
+
+Charizard (M)
+Ability: Blaze
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Fang
+- Air Slash
+- Shadow Claw
+- Dragon Claw
+
+Dragonite (M)
+Ability: Inner Focus
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Beam
+- Dragon Rush
+- Blizzard
+- Thunder Wave
+
+Dragonite (M) @ Sitrus Berry
+Ability: Inner Focus
+EVs: 4 HP / 252 SpA / 252 Spe
+Hardy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Beam
+- Safeguard
+- Fire Blast
+- Outrage

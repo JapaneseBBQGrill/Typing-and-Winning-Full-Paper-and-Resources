@@ -1,0 +1,59 @@
+Hawlucha (M)
+Ability: Limber
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swords Dance
+- Flying Press
+- Poison Jab
+- X-Scissor
+
+Tyrantrum (M)
+Ability: Strong Jaw
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Head Smash
+- Dragon Claw
+- Earthquake
+- Crunch
+
+Aurorus (M)
+Ability: Refrigerate
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Light Screen
+- Blizzard
+- Thunder
+
+Gourgeist (M)
+Ability: Pickup
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick-or-Treat
+- Phantom Force
+- Seed Bomb
+- Shadow Sneak
+
+Goodra (M)
+Ability: Sap Sipper
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Pulse
+- Fire Blast
+- Muddy Water
+- Focus Blast
+
+Gardevoir (M) @ Gardevoirite
+Ability: Trace
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Moonblast
+- Thunderbolt
+- Shadow Ball

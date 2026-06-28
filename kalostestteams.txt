@@ -1,0 +1,488 @@
+--- #1 | win rate: 1.000 (8/8) ---
+Snorlax (M) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 Atk / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Body Slam
+- Rest
+- Sleep Talk
+
+Haxorus (M) @ Life Orb
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Outrage
+- Earthquake
+- Poison Jab
+
+Blastoise (M) @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Ice Beam
+- Rapid Spin
+- Dark Pulse
+
+Gardevoir (F) @ Gardevoirite
+Ability: Trace
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Psychic
+- Calm Mind
+- Focus Blast
+
+Pyroar (M) @ Choice Specs
+Ability: Unnerve
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 31 Def / 30 SpA / 31 SpD / 30 Spe
+- Hyper Voice
+- Flamethrower
+- Dark Pulse
+- Hidden Power
+
+Garchomp (M) @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Swords Dance
+- Brick Break
+
+--- #2 | win rate: 0.875 (7/8) ---
+Gallade (M) @ Focus Sash
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Psycho Cut
+- Swords Dance
+- Shadow Sneak
+
+Gyarados (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Meowstic (M) @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Light Screen
+- Thunder Wave
+- Psychic
+
+Salamence (M) @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Double-Edge
+- Earthquake
+- Fire Blast
+
+Roserade (M) @ Black Sludge
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spikes
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+
+Sylveon (M) @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Wish
+- Protect
+- Calm Mind
+
+--- #3 | win rate: 0.750 (6/8) ---
+Pangoro (M) @ Choice Band
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hammer Arm
+- Crunch
+- Ice Punch
+- Poison Jab
+
+Gyarados (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Meowstic (M) @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Light Screen
+- Thunder Wave
+- Psychic
+
+Salamence (M) @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Double-Edge
+- Earthquake
+- Fire Blast
+
+Florges (M) @ Leftovers
+Ability: Flower Veil
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Aromatherapy
+- Wish
+- Protect
+
+Sylveon (M) @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Wish
+- Protect
+- Calm Mind
+
+--- #4 | win rate: 0.625 (5/8) ---
+Aegislash (M) @ Leftovers
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- King's Shield
+- Shadow Ball
+- Sacred Sword
+- Iron Head
+
+Venusaur (M) @ Venusaurite
+Ability: Overgrow
+EVs: 252 HP / 252 SpA / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Giga Drain
+- Sludge Bomb
+- Synthesis
+- Sleep Powder
+
+Lapras (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Thunderbolt
+- Substitute
+
+Pyroar (M) @ Choice Specs
+Ability: Unnerve
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 31 Def / 30 SpA / 31 SpD / 30 Spe
+- Hyper Voice
+- Flamethrower
+- Dark Pulse
+- Hidden Power
+
+Talonflame (M) @ Sharp Beak
+Ability: Gale Wings
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Flare Blitz
+- Roost
+- Swords Dance
+
+Chesnaught (M) @ Leftovers
+Ability: Bulletproof
+EVs: 252 HP / 252 Def  / 4 SpD
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spiky Shield
+- Seed Bomb
+- Drain Punch
+- Spikes
+
+--- #5 | win rate: 0.375 (3/8) ---
+Pidgeot (M) @ Wide Lens
+Ability: Keen Eye
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hurricane
+- Heat Wave
+- Roost
+- U-turn
+
+Noivern (M) @ Choice Specs
+Ability: Infiltrator
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Hurricane
+- Flamethrower
+- U-turn
+
+Jolteon (M) @ Choice Specs
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+- Hidden Power
+
+Hawlucha (M) @ Sitrus Berry
+Ability: Unburden
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- High Jump Kick
+- Swords Dance
+- Roost
+
+Delphox (M) @ Leftovers
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Flamethrower
+- Calm Mind
+- Grass Knot
+
+Blastoise (M) @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Ice Beam
+- Rapid Spin
+- Dark Pulse
+
+--- #6 | win rate: 0.250 (2/8) ---
+Gallade (M) @ Focus Sash
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Psycho Cut
+- Swords Dance
+- Shadow Sneak
+
+Gyarados (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Earthquake
+- Ice Fang
+
+Meowstic (M) @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Light Screen
+- Thunder Wave
+- Psychic
+
+Raichu (M) @ Light Ball
+Ability: Static
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Volt Switch
+- Grass Knot
+- Encore
+
+Flygon (M) @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- U-turn
+- Stone Edge
+
+Absol (M) @ Absolite
+Ability: Super Luck
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Night Slash
+- Sucker Punch
+- Play Rough
+- Swords Dance
+
+--- #7 | win rate: 0.125 (1/8) ---
+Snorlax (M) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 Atk / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Curse
+- Body Slam
+- Rest
+- Sleep Talk
+
+Haxorus (M) @ Life Orb
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Outrage
+- Earthquake
+- Poison Jab
+
+Blastoise (M) @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Ice Beam
+- Rapid Spin
+- Dark Pulse
+
+Salamence (M) @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Double-Edge
+- Earthquake
+- Fire Blast
+
+Roserade (M) @ Black Sludge
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spikes
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+
+Sylveon (M) @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Wish
+- Protect
+- Calm Mind
+
+--- #8 | win rate: 0.000 (0/8) ---
+Gallade (M) @ Focus Sash
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Psycho Cut
+- Swords Dance
+- Shadow Sneak
+
+Noivern (M) @ Choice Specs
+Ability: Infiltrator
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Hurricane
+- Flamethrower
+- U-turn
+
+Jolteon (M) @ Choice Specs
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+- Hidden Power
+
+Hawlucha (M) @ Sitrus Berry
+Ability: Unburden
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- High Jump Kick
+- Swords Dance
+- Roost
+
+Diggersby (M) @ Life Orb
+Ability: Huge Power
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Return
+- Earthquake
+- Quick Attack
+- Fire Punch
+
+Blastoise (M) @ Blastoisinite
+Ability: Torrent
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Ice Beam
+- Rapid Spin
+- Dark Pulse
+

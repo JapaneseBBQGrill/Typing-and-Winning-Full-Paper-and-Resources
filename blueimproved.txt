@@ -1,0 +1,59 @@
+Blastoise (M) @ Sitrus Berry
+Ability: Torrent
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Hydro Pump
+- Mirror Coat
+- Ice Beam
+
+Pidgeot (M)
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Agility
+- Aerial Ace
+- Mirror Move
+- Return
+
+Exeggutor (M)
+Ability: Chlorophyll
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Sleep Powder
+- Giga Drain
+- Psychic
+
+Magneton (M)
+Ability: Sturdy
+EVs: 4 HP / 252 SpA / 252 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunder Wave
+- Thunderbolt
+- Hidden Power
+- Protect
+
+Scyther (M)
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Silver Wind
+- Steel Wing
+- Swords Dance
+- Aerial Ace
+
+Arcanine (M)
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Crunch
+- ExtremeSpeed
+- Roar

@@ -1,0 +1,59 @@
+Spiritomb (M)
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Silver Wind
+- Dark Pulse
+- Shadow Ball
+- Psychic
+
+Roserade (M)
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sludge Bomb
+- Energy Ball
+- Extrasensory
+- Toxic
+
+Milotic (M)
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mirror Coat
+- Dragon Pulse
+- Ice Beam
+- Surf
+
+Lucario (M)
+Ability: Steadfast
+EVs: 4 HP / 252 Atk / 252 Spe
+Hardy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aura Sphere
+- Shadow Ball
+- Stone Edge
+- ExtremeSpeed
+
+Togekiss (M)
+Ability: Hustle
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Aura Sphere
+- Water Pulse
+- Shock Wave
+
+Garchomp (M) @ Sitrus Berry
+Ability: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Rush
+- Flamethrower
+- Earthquake
+- Giga Impact

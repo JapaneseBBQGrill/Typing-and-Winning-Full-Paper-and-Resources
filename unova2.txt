@@ -1,0 +1,479 @@
+Lucario (M) @ Life Orb
+Ability: Justified
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- ExtremeSpeed
+- Swords Dance
+- Crunch
+
+Samurott (M) @ Mystic Water
+Ability: Torrent
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Megahorn
+- Aqua Jet
+- Swords Dance
+
+Serperior (M) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Storm
+- Leech Seed
+- Substitute
+- Glare
+
+Emboar (M) @ Leftovers
+Ability: Blaze
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Wild Charge
+- Superpower
+- Head Smash
+
+Arcanine (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- ExtremeSpeed
+- Wild Charge
+- Morning Sun
+
+Flygon (M) @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- U-turn
+- Stone Edge
+
+Krookodile (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Ampharos (M) @ Leftovers
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Substitute
+- Signal Beam
+- Thunder Wave
+
+Zoroark (M) @ Life Orb
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dark Pulse
+- Flamethrower
+- Focus Blast
+- U-turn
+
+Magnezone (M) @ Choice Specs
+Ability: Magnet Pull
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Flash Cannon
+- Hidden Power
+- Volt Switch
+
+Chandelure (M) @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Flamethrower
+- Energy Ball
+- Psychic
+
+Volcarona (M) @ Leftovers
+Ability: Flame Body
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quiver Dance
+- Fiery Dance
+- Bug Buzz
+- Roost
+
+Haxorus (M) @ Life Orb
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Outrage
+- Earthquake
+- Brick Break
+
+Crobat (M) @ Black Sludge
+Ability: Infiltrator
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- U-turn
+- Roost
+- Taunt
+
+Braviary (M) @ Choice Band
+Ability: Defiant
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Superpower
+- U-turn
+- Rock Slide
+
+Excadrill (M) @ Life Orb
+Ability: Sand Rush
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Iron Head
+- Rock Slide
+- Swords Dance
+
+Unfezant (M) @ Sharp Beak
+Ability: Big Pecks
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sky Attack
+- Return
+- U-turn
+- Quick Attack
+
+Hydreigon (M) @ Choice Specs
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Surf
+
+Galvantula (M) @ Focus Sash
+Ability: Compound Eyes
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Bug Buzz
+- Spider Web
+- Volt Switch
+
+Scolipede (M) @ Life Orb
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Megahorn
+- Earthquake
+- Poison Jab
+- Protect
+
+Leavanny (M) @ Focus Sash
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- X-Scissor
+- Poison Jab
+- Swords Dance
+
+Darmanitan (M) @ Choice Scarf
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Earthquake
+- U-turn
+
+Scrafty (M) @ Leftovers
+Ability: Moxie
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Drain Punch
+- Crunch
+- Ice Punch
+
+Metagross (M) @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Meteor Mash
+- Earthquake
+- Bullet Punch
+- Zen Headbutt
+
+Jellicent (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Shadow Ball
+- Recover
+- Will-O-Wisp
+
+Espeon (M) @ Leftovers
+Ability: Magic Bounce
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Calm Mind
+- Shadow Ball
+- Morning Sun
+
+Electivire (M) @ Life Orb
+Ability: Motor Drive
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- ThunderPunch
+- Ice Punch
+- Earthquake
+- Cross Chop
+
+Stoutland (M) @ Choice Band
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Return
+- Crunch
+- Superpower
+- Wild Charge
+
+Azumarill (M) @ Choice Band
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Aqua Jet
+- Return
+- Superpower
+
+Vaporeon (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Wish
+- Protect
+
+Aggron (M) @ Choice Band
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Head Smash
+- Earthquake
+- Iron Tail
+- Aqua Tail
+
+Bisharp (M) @ Life Orb
+Ability: Defiant
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Head
+- Night Slash
+- Sucker Punch
+- Brick Break
+
+Archeops (M) @ Choice Band
+Ability: Defeatist
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Stone Edge
+- Earthquake
+- U-turn
+
+Tyranitar (M) @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Crunch
+- Earthquake
+- Dragon Dance
+
+Roserade (M) @ Black Sludge
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+- Toxic Spikes
+
+Jolteon (M) @ Choice Specs
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Hidden Power
+- Shadow Ball
+- Volt Switch
+
+Reuniclus (M) @ Leftovers
+Ability: Magic Guard
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Focus Blast
+- Calm Mind
+- Recover
+
+Zebstrika (M) @ Life Orb
+Ability: Motor Drive
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wild Charge
+- Flame Charge
+- Volt Switch
+- Double-Edge
+
+Starmie (M) @ Life Orb
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Gigalith (M) @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Earthquake
+- Explosion
+- Stealth Rock
+
+Eelektross (M) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 4 Atk / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Flamethrower
+- Giga Drain
+- Acid Spray
+
+Golurk (M) @ Leftovers
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Shadow Punch
+- Ice Punch
+- Stealth Rock
+
+Lilligant (M) @ Leftovers
+Ability: Own Tempo
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Quiver Dance
+- Petal Dance
+- Sleep Powder
+- Hidden Power
+
+Sigilyph (M) @ Flame Orb
+Ability: Magic Guard
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Cosmic Power
+- Stored Power
+- Roost
+- Psycho Shift
+
+Mienshao (M) @ Life Orb
+Ability: Regenerator
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- High Jump Kick
+- U-turn
+- Stone Edge
+- Fake Out
+
+Mandibuzz (M) @ Leftovers
+Ability: Overcoat
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Foul Play
+- Roost
+- Taunt
+- Toxic
+
+Heracross (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Megahorn
+- Stone Edge
+- Night Slash
+
+Carracosta (M) @ Leftovers
+Ability: Solid Rock
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shell Smash
+- Waterfall
+- Stone Edge
+- Aqua Jet

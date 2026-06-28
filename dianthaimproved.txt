@@ -1,0 +1,59 @@
+Gardevoir (F) @ Gardevoirite
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Moonblast
+- Calm Mind
+- Encore
+
+Steelix (M)
+Ability: Rock Head
+EVs: 4 HP / 252 Def / 252 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Rock Slide
+- Heavy Slam
+- Double-Edge
+
+Drapion (M)
+Ability: Sniper
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic
+- Crunch
+- Fell Stinger
+- Cross Poison
+
+Staraptor (M)
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Close Combat
+- Roost
+- U-turn
+
+Conkeldurr (M)
+Ability: Sheer Force
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Focus Punch
+- Giga Impact
+- Poison Jab
+
+Lanturn (M)
+Ability: Volt Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Thunder Wave
+- Hydro Pump
+- Ice Beam

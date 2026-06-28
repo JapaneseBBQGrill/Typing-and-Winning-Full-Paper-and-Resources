@@ -1,0 +1,59 @@
+Lycanroc (M)
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Accelerock
+- Crunch
+- Stealth Rock
+
+Ninetales-Alola (F)
+Ability: Snow Cloak
+EVs: 252 HP / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dazzling Gleam
+- Blizzard
+- Ice Shard
+- Safeguard
+
+Braviary (M)
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Crush Claw
+- Brave Bird
+- Whirlwind
+- Tailwind
+
+Magnezone (M)
+Ability: Sturdy
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Flash Cannon
+- Thunder Wave
+- Mirror Coat
+
+Snorlax (M)
+Ability: Thick Fat
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Body Slam
+- Crunch
+- Heavy Slam
+- High Horsepower
+
+Incineroar (M) @ Firium Z
+Ability: Blaze
+EVs: 252 HP / 252 Def / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Darkest Lariat
+- Outrage
+- Cross Chop

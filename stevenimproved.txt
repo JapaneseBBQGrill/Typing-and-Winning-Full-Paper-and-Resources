@@ -1,0 +1,59 @@
+Metagross (M) @ Sitrus Berry
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 SpD
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Meteor Mash
+- Psychic
+- Hyper Beam
+- Earthquake
+
+Salamence (M)
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Dragon Claw
+- Crunch
+- Flamethrower
+
+Manectric (M)
+Ability: Lightning Rod
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 30 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Thunder Wave
+- Roar
+- Hidden Power
+
+Shiftry (M)
+Ability: Chlorophyll
+EVs: 252 Atk / 4 SpA / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Explosion
+- Giga Drain
+- Leech Seed
+
+Camerupt (M)
+Ability: Magma Armor
+EVs: 252 HP / 4 Def / 252 SpD
+Relaxed Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Eruption
+- Rock Slide
+- Protect
+- Toxic
+
+Wailord (M)
+Ability: Water Veil
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Spout
+- Ice Beam
+- Sleep Talk
+- Rest

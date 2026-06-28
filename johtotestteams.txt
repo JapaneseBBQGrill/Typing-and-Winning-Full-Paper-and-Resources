@@ -1,0 +1,488 @@
+--- #1 | win rate: 1.000 (8/8) ---
+Nidoking (M) @ Life Orb
+Ability: Poison Point
+EVs: 4 HP / 252 SpA / 252 Spe
+Mild Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Quagsire (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Waterfall
+- Recover
+- Toxic
+
+Typhlosion (M) @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 31 Spe
+- Eruption
+- Flamethrower
+- Focus Blast
+- Hidden Power
+
+Mamoswine (M) @ Life Orb
+Ability: Snow Cloak
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Superpower
+
+Jolteon (M) @ Life Orb
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Hidden Power
+- Shadow Ball
+- Baton Pass
+
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+--- #2 | win rate: 0.875 (7/8) ---
+Pidgeot (M) @ Leftovers
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Return
+- Roost
+- U-turn
+
+Kingdra (M) @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Dragon Pulse
+- Ice Beam
+- Signal Beam
+
+Quagsire (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Waterfall
+- Recover
+- Toxic
+
+Vaporeon (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Wish
+- Protect
+
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+Magmar (M) @ Life Orb
+Ability: Flame Body
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 31 Spe
+- Flamethrower
+- Fire Blast
+- Focus Blast
+- Hidden Power
+
+--- #3 | win rate: 0.875 (7/8) ---
+Lapras (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Thunderbolt
+- Rest
+
+Kingdra (M) @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Dragon Pulse
+- Ice Beam
+- Signal Beam
+
+Typhlosion (M) @ Choice Specs
+Ability: Blaze
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 31 Spe
+- Eruption
+- Flamethrower
+- Focus Blast
+- Hidden Power
+
+Mamoswine (M) @ Life Orb
+Ability: Snow Cloak
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Superpower
+
+Jolteon (M) @ Life Orb
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Hidden Power
+- Shadow Ball
+- Baton Pass
+
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+--- #4 | win rate: 0.750 (6/8) ---
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+Pidgeot (M) @ Leftovers
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Return
+- Roost
+- U-turn
+
+Espeon (M) @ Life Orb
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 31 Def / 30 SpA / 30 SpD / 30 Spe
+- Psychic
+- Shadow Ball
+- Hidden Power
+- Calm Mind
+
+Vaporeon (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Wish
+- Protect
+
+Houndoom (M) @ Life Orb
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 31 Spe
+- Fire Blast
+- Dark Pulse
+- Nasty Plot
+- Hidden Power
+
+Mamoswine (M) @ Life Orb
+Ability: Snow Cloak
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Superpower
+
+--- #5 | win rate: 0.250 (2/8) ---
+Ninetales (M) @ Leftovers
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Energy Ball
+- Hypnosis
+- Nasty Plot
+
+Lapras (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Thunderbolt
+- Rest
+
+Machamp (M) @ Leftovers
+Ability: No Guard
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- DynamicPunch
+- Payback
+- Stone Edge
+- Bullet Punch
+
+Magmar (M) @ Life Orb
+Ability: Flame Body
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 31 Spe
+- Flamethrower
+- Fire Blast
+- Focus Blast
+- Hidden Power
+
+Poliwrath (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Brick Break
+- Ice Punch
+- Hypnosis
+
+Mamoswine (M) @ Life Orb
+Ability: Snow Cloak
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Superpower
+
+--- #6 | win rate: 0.125 (1/8) ---
+Machamp (M) @ Leftovers
+Ability: No Guard
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- DynamicPunch
+- Payback
+- Stone Edge
+- Bullet Punch
+
+Tyranitar (M) @ Choice Band
+Ability: Sand Stream
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Crunch
+- Pursuit
+- Earthquake
+
+Nidoking (M) @ Life Orb
+Ability: Poison Point
+EVs: 4 HP / 252 SpA / 252 Spe
+Mild Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Gyarados (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Stone Edge
+- Earthquake
+
+Bellossom (M) @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Energy Ball
+- Sleep Powder
+- Leech Seed
+- Moonlight
+
+Meganium (M) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grass Knot
+- Leech Seed
+- Synthesis
+- Reflect
+
+--- #7 | win rate: 0.125 (1/8) ---
+Jolteon (M) @ Life Orb
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Hidden Power
+- Shadow Ball
+- Baton Pass
+
+Furret (M) @ Choice Band
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Return
+- U-turn
+- Trick
+- Sucker Punch
+
+Scizor (M) @ Choice Band
+Ability: Technician
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bullet Punch
+- U-turn
+- Superpower
+- Pursuit
+
+Arcanine (M) @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- ExtremeSpeed
+- Thunder Fang
+- Morning Sun
+
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+Meganium (M) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grass Knot
+- Leech Seed
+- Synthesis
+- Reflect
+
+--- #8 | win rate: 0.000 (0/8) ---
+Jolteon (M) @ Life Orb
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Thunderbolt
+- Hidden Power
+- Shadow Ball
+- Baton Pass
+
+Quagsire (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Waterfall
+- Recover
+- Toxic
+
+Nidoking (M) @ Life Orb
+Ability: Poison Point
+EVs: 4 HP / 252 SpA / 252 Spe
+Mild Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Ice Beam
+- Thunderbolt
+- Flamethrower
+
+Arcanine (M) @ Life Orb
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- ExtremeSpeed
+- Thunder Fang
+- Morning Sun
+
+Gengar (M) @ Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Focus Blast
+- Thunderbolt
+- Substitute
+
+Meganium (M) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grass Knot
+- Leech Seed
+- Synthesis
+- Reflect
+

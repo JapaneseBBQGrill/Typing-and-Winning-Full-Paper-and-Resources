@@ -1,0 +1,488 @@
+--- #1 | win rate: 1.000 (8/8) ---
+Milotic (M) @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Recover
+- Toxic
+
+Salamence (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Earthquake
+- Flamethrower
+- Rock Slide
+
+Armaldo (M) @ Leftovers
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Iron Tail
+- Earthquake
+- Protect
+
+Camerupt (M) @ Leftovers
+Ability: Magma Armor
+EVs: 4 HP / 252 Atk / 252 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Flamethrower
+- Rock Slide
+- Explosion
+
+Sceptile (M) @ Miracle Seed
+Ability: Overgrow
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Dragon Claw
+- ThunderPunch
+- Substitute
+
+Heracross (M) @ Choice Band
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Megahorn
+- Earthquake
+- Return
+
+--- #2 | win rate: 1.000 (8/8) ---
+Milotic (M) @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Recover
+- Toxic
+
+Salamence (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Earthquake
+- Flamethrower
+- Rock Slide
+
+Armaldo (M) @ Leftovers
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Iron Tail
+- Earthquake
+- Protect
+
+Slaking (M) @ Choice Band
+Ability: Truant
+EVs: 252 HP / 252 Def / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Return
+- Earthquake
+- Shadow Ball
+- Rock Slide
+
+Tentacruel (M) @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 4 Def / 252 SpD
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Toxic
+- Rapid Spin
+
+Walrein (M) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Rest
+- Sleep Talk
+
+--- #3 | win rate: 0.750 (6/8) ---
+Tentacruel (M) @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 4 Def / 252 SpD
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Toxic
+- Rapid Spin
+
+Crobat (M) @ Leftovers
+Ability: Inner Focus
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Poison Fang
+- Steel Wing
+- Taunt
+
+Zangoose (M) @ Leftovers
+Ability: Immunity
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Swords Dance
+- Quick Attack
+- Aerial Ace
+
+Camerupt (M) @ Leftovers
+Ability: Magma Armor
+EVs: 4 HP / 252 Atk / 252 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Flamethrower
+- Rock Slide
+- Explosion
+
+Sceptile (M) @ Miracle Seed
+Ability: Overgrow
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Dragon Claw
+- ThunderPunch
+- Substitute
+
+Heracross (M) @ Choice Band
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Megahorn
+- Earthquake
+- Return
+
+--- #4 | win rate: 0.750 (6/8) ---
+Milotic (M) @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Recover
+- Toxic
+
+Salamence (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Earthquake
+- Flamethrower
+- Rock Slide
+
+Armaldo (M) @ Leftovers
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Iron Tail
+- Earthquake
+- Protect
+
+Slaking (M) @ Choice Band
+Ability: Truant
+EVs: 252 HP / 252 Def / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Return
+- Earthquake
+- Shadow Ball
+- Rock Slide
+
+Tentacruel (M) @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 4 Def / 252 SpD
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Toxic
+- Rapid Spin
+
+Heracross (M) @ Choice Band
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Megahorn
+- Earthquake
+- Return
+
+--- #5 | win rate: 0.250 (2/8) ---
+Blaziken (M) @ Leftovers
+Ability: Blaze
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blaze Kick
+- Sky Uppercut
+- Rock Slide
+- Mirror Move
+
+Ninjask (M) @ Leftovers
+Ability: Speed Boost
+EVs: 252 HP / 4 Def / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Substitute
+- Swords Dance
+- Aerial Ace
+
+Claydol (M) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Psychic
+- Light Screen
+- Reflect
+
+Camerupt (M) @ Leftovers
+Ability: Magma Armor
+EVs: 4 HP / 252 Atk / 252 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Flamethrower
+- Rock Slide
+- Explosion
+
+Zangoose (M) @ Leftovers
+Ability: Immunity
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brick Break
+- Swords Dance
+- Quick Attack
+- Aerial Ace
+
+Gyarados (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Waterfall
+- Flamethrower
+- Earthquake
+
+--- #6 | win rate: 0.250 (2/8) ---
+Milotic (M) @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Recover
+- Toxic
+
+Tropius (M) @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 252 SpA / 4 SpD
+Calm Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leech Seed
+- Giga Drain
+- Aerial Ace
+- Synthesis
+
+Aggron (M) @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Tail
+- Rock Slide
+- Earthquake
+- Protect
+
+Salamence (M) @ Leftovers
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Claw
+- Earthquake
+- Flamethrower
+- Rock Slide
+
+Shedinja (M) @ Lum Berry
+Ability: Wonder Guard
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Aerial Ace
+- Swords Dance
+- Protect
+
+Walrein (M) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Rest
+- Sleep Talk
+
+--- #7 | win rate: 0.000 (0/8) ---
+Wailord (M) @ Leftovers
+Ability: Water Veil
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Rest
+- Water Spout
+
+Blaziken (M) @ Leftovers
+Ability: Blaze
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blaze Kick
+- Sky Uppercut
+- Rock Slide
+- Mirror Move
+
+Armaldo (M) @ Leftovers
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Iron Tail
+- Earthquake
+- Protect
+
+Azumarill (M) @ Leftovers
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Return
+- Brick Break
+- Belly Drum
+
+Skarmory (M) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spikes
+- Steel Wing
+- Whirlwind
+- Aerial Ace
+
+Walrein (M) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Rest
+- Sleep Talk
+
+--- #8 | win rate: 0.000 (0/8) ---
+Sharpedo (M) @ Mystic Water
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Crunch
+- Ice Beam
+- Protect
+
+Aggron (M) @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Tail
+- Rock Slide
+- Earthquake
+- Protect
+
+Crawdaunt (M) @ Leftovers
+Ability: Hyper Cutter
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Crabhammer
+- Knock Off
+- Ice Beam
+- Swords Dance
+
+Cradily (M) @ Leftovers
+Ability: Suction Cups
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Giga Drain
+- Recover
+- Toxic
+
+Alakazam (M) @ TwistedSpoon
+Ability: Synchronize
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Calm Mind
+- Shadow Ball
+- Encore
+
+Shiftry (M) @ Miracle Seed
+Ability: Early Bird
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Fake Out
+- Brick Break
+- Explosion
+

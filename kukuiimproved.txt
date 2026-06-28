@@ -1,0 +1,59 @@
+Incineroar (M) @ Firium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Def / 4 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Darkest Lariat
+- U-turn
+- Fake Out
+
+Raichu-Alola (M)
+Ability: Surge Surfer
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Psychic
+- Focus Blast
+- Nasty Plot
+
+Dhelmise (M)
+Ability: Steelworker
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Power Whip
+- Anchor Shot
+- Earthquake
+- Shadow Claw
+
+Goodra (M)
+Ability: Sap Sipper
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Pulse
+- Flamethrower
+- Thunderbolt
+- Sludge Bomb
+
+Skarmory (M)
+Ability: Sturdy
+EVs: 4 HP / 252 Def / 252 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Head
+- Brave Bird
+- Stealth Rock
+- Protect
+
+Whiscash (M)
+Ability: Anticipation
+EVs: 4 HP / 252 Atk / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Waterfall
+- Dragon Dance
+- Bounce

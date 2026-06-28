@@ -1,0 +1,59 @@
+Skarmory (M)
+Ability: Keen Eye
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic
+- Steel Wing
+- Aerial Ace
+- Spikes
+
+Cradily (M)
+Ability: Suction Cups
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Confuse Ray
+- Sludge Bomb
+- AncientPower
+- Giga Drain
+
+Claydol (M)
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- AncientPower
+- Light Screen
+- Reflect
+
+Armaldo (M)
+Ability: BAttle Armor
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Slash
+- AncientPower
+- Aerial Ace
+- Water Pulse
+
+Aggron (M)
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Thunder
+- Solar Beam
+
+Metagross (M) @ Sitrus Berry
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Meteor Mash
+- Psychic
+- Hyper Beam
+- Earthquake

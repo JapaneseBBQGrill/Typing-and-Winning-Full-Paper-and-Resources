@@ -1,0 +1,59 @@
+Cofagrigus (M)
+Ability: Mummy
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Toxic
+- Protect
+- Psychic
+- Shadow Ball
+
+Bouffalant (M)
+Ability: Sap Sipper
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Head Charge
+- Wild Charge
+- Poison Jab
+- Earthquake
+
+Seismitoad (M)
+Ability: Swift Swim
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rain Dance
+- Sludge Wave
+- Muddy Water
+- Earthquake
+
+Bisharp (M)
+Ability: Defiant
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Stone Edge
+- Night Slash
+- Metal Burst
+- X-Scissor
+
+Eelektross (M)
+Ability: Levitate
+EVs: 252 HP / 4 Atk / 252 SpA
+Hardy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wild Charge
+- Crunch
+- Flamethrower
+- Acrobatics
+
+Hydreigon (M) Life Orb
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fire Blast
+- Surf
+- Focus Blast
+- Dragon Pulse

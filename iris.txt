@@ -1,0 +1,59 @@
+Hydreigon (M)
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Charge Beam
+- Dragon Pulse
+- Surf
+
+Druddigon (M)
+Ability: Sheer Force
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Flamethrower
+- Dragon Tail
+- Focus Blast
+
+Aggron (M)
+Ability: Rock Head
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Double-Edge
+- Rock Slide
+- Autotomize
+
+Archeops (M)
+Ability: Defeatist
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Rock Slide
+- Dragon Claw
+- Endeavor
+
+Lapras (M)
+Ability: Water Absorb
+EVs: 252 HP / 252 SpA / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Ice Beam
+- Thunderbolt
+- Sing
+
+Haxorus (M) @ Focus Sash
+Ability: Mold Breaker
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- X-Scissor
+- Dual Chop
+- Dragon Dance

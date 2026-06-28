@@ -1,0 +1,488 @@
+--- #1 | win rate: 0.750 (6/8) ---
+Sawk (M) @ Choice Scarf
+Ability: Sturdy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Earthquake
+- Stone Edge
+- Poison Jab
+
+Scrafty (M) @ Leftovers
+Ability: Moxie
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Dance
+- Drain Punch
+- Crunch
+- Ice Punch
+
+Beartic (M) @ Choice Band
+Ability: Snow Cloak
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icicle Crash
+- Superpower
+- Aqua Jet
+- Stone Edge
+
+Krookodile (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Jellicent (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Shadow Ball
+- Recover
+- Will-O-Wisp
+
+Musharna (M) @ Leftovers
+Ability: Synchronize
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Moonlight
+- Calm Mind
+- Thunder Wave
+
+--- #2 | win rate: 0.750 (6/8) ---
+Chandelure (M) @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Flamethrower
+- Energy Ball
+- Psychic
+
+Reuniclus (M) @ Leftovers
+Ability: Magic Guard
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Focus Blast
+- Calm Mind
+- Recover
+
+Sawk (M) @ Choice Scarf
+Ability: Sturdy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Earthquake
+- Stone Edge
+- Poison Jab
+
+Simisage (M) @ Life Orb
+Ability: Overgrow
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Seed Bomb
+- Crunch
+- Acrobatics
+- Rock Slide
+
+Krookodile (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Darmanitan (M) @ Choice Scarf
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- U-turn
+- Rock Slide
+- Earthquake
+
+--- #3 | win rate: 0.625 (5/8) ---
+Emboar (M) @ Leftovers
+Ability: Blaze
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Superpower
+- Wild Charge
+- Head Smash
+
+Hydreigon (M) @ Choice Specs
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Surf
+
+Sawk (M) @ Choice Scarf
+Ability: Sturdy
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Earthquake
+- Stone Edge
+- Poison Jab
+
+Eelektross (M) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 4 Atk / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Flamethrower
+- Giga Drain
+- Acrobatics
+
+Simisear (M) @ Life Orb
+Ability: Gluttony
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Grass Knot
+- Focus Blast
+- Nasty Plot
+
+Bisharp (M) @ Life Orb
+Ability: Defiant
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Head
+- Night Slash
+- Sucker Punch
+- Brick Break
+
+--- #4 | win rate: 0.500 (4/8) ---
+Carracosta (M) @ Leftovers
+Ability: Solid Rock
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shell Smash
+- Waterfall
+- Stone Edge
+- Aqua Jet
+
+Samurott (M) @ Mystic Water
+Ability: Torrent
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Megahorn
+- Aqua Jet
+- Swords Dance
+
+Ferrothorn (M) @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Gyro Ball
+- Power Whip
+- Stealth Rock
+- Leech Seed
+
+Sawsbuck (M) @ Life Orb
+Ability: Sap Sipper
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double-Edge
+- Horn Leech
+- Jump Kick
+- Swords Dance
+
+Hydreigon (M) @ Choice Specs
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Surf
+
+Vanilluxe (M) @ Choice Specs
+Ability: Ice Body
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 31 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Ice Beam
+- Hail
+- Flash Cannon
+- Hidden Power
+
+--- #5 | win rate: 0.500 (4/8) ---
+Darmanitan (M) @ Choice Scarf
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- U-turn
+- Rock Slide
+- Earthquake
+
+Samurott (M) @ Mystic Water
+Ability: Torrent
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Megahorn
+- Aqua Jet
+- Swords Dance
+
+Zoroark (M) @ Life Orb
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dark Pulse
+- Flamethrower
+- Focus Blast
+- U-turn
+
+Jellicent (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Shadow Ball
+- Recover
+- Will-O-Wisp
+
+Krookodile (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Golurk (M) @ Leftovers
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Shadow Punch
+- Ice Punch
+- Stealth Rock
+
+--- #6 | win rate: 0.375 (3/8) ---
+Darmanitan (M) @ Choice Scarf
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- U-turn
+- Rock Slide
+- Earthquake
+
+Chandelure (M) @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Flamethrower
+- Energy Ball
+- Psychic
+
+Zoroark (M) @ Life Orb
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dark Pulse
+- Flamethrower
+- Focus Blast
+- U-turn
+
+Jellicent (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Shadow Ball
+- Recover
+- Will-O-Wisp
+
+Krookodile (M) @ Choice Scarf
+Ability: Moxie
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Crunch
+- Stone Edge
+- Outrage
+
+Samurott (M) @ Mystic Water
+Ability: Torrent
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Waterfall
+- Megahorn
+- Aqua Jet
+- Swords Dance
+
+--- #7 | win rate: 0.250 (2/8) ---
+Scolipede (M) @ Life Orb
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Megahorn
+- Earthquake
+- Poison Jab
+- Protect
+
+Mienshao (M) @ Life Orb
+Ability: Regenerator
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- High Jump Kick
+- U-turn
+- Stone Edge
+- Fake Out
+
+Excadrill (M) @ Life Orb
+Ability: Sand Rush
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Iron Head
+- Rock Slide
+- Swords Dance
+
+Zoroark (M) @ Life Orb
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dark Pulse
+- Flamethrower
+- Focus Blast
+- U-turn
+
+Musharna (M) @ Leftovers
+Ability: Synchronize
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Moonlight
+- Calm Mind
+- Thunder Wave
+
+Hydreigon (M) @ Choice Specs
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Surf
+
+--- #8 | win rate: 0.250 (2/8) ---
+Eelektross (M) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 4 Atk / 252 SpA
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Flamethrower
+- Giga Drain
+- Acrobatics
+
+Swoobat (M) @ Leftovers
+Ability: Simple
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Calm Mind
+- Air Slash
+- Roost
+- Psychic
+
+Emboar (M) @ Leftovers
+Ability: Blaze
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Superpower
+- Wild Charge
+- Head Smash
+
+Chandelure (M) @ Choice Specs
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Flamethrower
+- Energy Ball
+- Psychic
+
+Simisear (M) @ Life Orb
+Ability: Gluttony
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Grass Knot
+- Focus Blast
+- Nasty Plot
+
+Hydreigon (M) @ Choice Specs
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Surf
+
